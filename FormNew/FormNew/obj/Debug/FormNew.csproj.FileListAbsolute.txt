@@ -22,3 +22,16 @@ G:\FormNew\FormNew\obj\Debug\FormNew.csproj.GenerateResource.cache
 G:\FormNew\FormNew\obj\Debug\FormNew.csproj.CoreCompileInputs.cache
 G:\FormNew\FormNew\obj\Debug\FormNew.exe
 G:\FormNew\FormNew\obj\Debug\FormNew.pdb
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.Form1.resources
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.Form2.resources
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.TeamsMain.resources
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.Properties.Resources.resources
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.exe
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.pdb
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\bin\Debug\FormNew.exe.config
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\bin\Debug\FormNew.exe
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\bin\Debug\FormNew.pdb
