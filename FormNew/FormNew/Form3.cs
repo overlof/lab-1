@@ -10,11 +10,31 @@ using System.Windows.Forms;
 
 namespace FormNew
 {
-    public partial class TeamsMain : Form
+    public partial class Form3 : Form
     {
-        public TeamsMain()
+        public Form3()
         {
             InitializeComponent();
+            }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

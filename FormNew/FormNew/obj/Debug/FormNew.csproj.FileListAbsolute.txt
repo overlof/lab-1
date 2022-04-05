@@ -35,3 +35,4 @@ C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.pdb
 C:\Users\Student\Desktop\lab-1\FormNew\FormNew\bin\Debug\FormNew.exe.config
 C:\Users\Student\Desktop\lab-1\FormNew\FormNew\bin\Debug\FormNew.exe
 C:\Users\Student\Desktop\lab-1\FormNew\FormNew\bin\Debug\FormNew.pdb
+C:\Users\Student\Desktop\lab-1\FormNew\FormNew\obj\Debug\FormNew.Form3.resources

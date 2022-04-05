@@ -8,5 +8,6 @@ namespace FormNew
 {
     internal class Class2
     {
+
     }
 }

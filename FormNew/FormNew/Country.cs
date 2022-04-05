@@ -14,7 +14,6 @@ namespace FormNew
     
     public void set(String CountryCode, String CountryName)
         {
-    
         this.CountryCode = CountryCode;
         this.CountryName = CountryName;
         }

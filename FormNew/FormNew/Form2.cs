@@ -26,5 +26,12 @@ namespace FormNew
         {
             this .Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form3 form = new Form3();
+            form.ShowDialog();
+
+        }
     }
 }
